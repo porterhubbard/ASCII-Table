@@ -1,3 +1,13 @@
+# Binary Arithmetic
+
+By Porter Hubbard
+
+This tutorial details basic binary arithmetic, and was created for anyone who is interested in beginning their experience with binary basics! 
+
+Binary arithmetic includes addition, subtraction, multiplication, and division. Each of these pages are options to learn from. The overview of the binary system is listed below. 
+
+Enjoy!
+
 # Binary Overview  
 ---
 The binary system is a way of representing data using 0s and 1s. Because it is only represented in two digits, a computer has an easier time processing the information it is being fed. 
